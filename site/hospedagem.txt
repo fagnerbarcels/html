@@ -1,0 +1,5 @@
+Hospedar sites 
+
+hostnet - rede de hospedagem de sites 
+
+dominio - nome do site na internet 

@@ -1,0 +1,11 @@
+Internet 
+
+Computadores comunicam por ondas binarias de 0 1. 
+
+A <         Modulação/Demodulação          > B 
+
+
+
+Protocolo - Tcp/ip (transferencia de arquivo - identifica o computador )
+Protocolo - Dns (nome/dominio)
+Url - Nome do site que é tranformado em numero pelo protocolo dns 

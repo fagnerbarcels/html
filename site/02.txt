@@ -1,0 +1,13 @@
+1990 - HTTP - HTML - WWW 
+
+HTTP é um protocolo de transferência que possibilita que as pessoas que inserem a URL do seu site na Web possam ver os conteúdos e dados que nele existem. A sigla vem do inglês Hypertext Transfer Protocol.
+
+1991 - World Wide Web.
+
+O www é um sistema em hipermídia, que é a reunião de várias mídias interligadas por sistemas eletrônicos de comunicação. Executadas na Internet, onde é possível acessar qualquer site para consulta na Internet.
+
+A Web funciona através de três parâmetros:
+
+URL, que especifica o endereço único que cada página vai receber, e é como ela vai ser encontrada quando os usuários digitarem;
+HTTP, que é um protocolo de comunicação que permite a transferência de informação entre redes;
+HTML, sigla de HyperText Markup Language, expressão inglesa que significa "Linguagem de Marcação de Hipertexto". Consiste em uma linguagem de marcação utilizada para produção de páginas na web, que permite a criação de documentos que podem ser lidos em praticamente qualquer tipo de computador e transmitidos pela internet.

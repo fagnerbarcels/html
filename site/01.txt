@@ -1,0 +1,17 @@
+Rede mundial de computadores = Internet.
+
+Comunicação humana via computadores.
+
+1945 - Eniac - Armazenar dados 
+
+1959 - Imb 1401
+
+1969 - Darpa - Dados do exercito que guardava dados do governo dos Estados unidos.
+
+1970 - Arpanet - Rede de 4 pontos 
+
+1972 - E-mail
+
+1973 - Tcp - internet - ip - tcp/ip
+
+1977 - Internet 
